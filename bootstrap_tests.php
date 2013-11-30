@@ -11,7 +11,7 @@
 // Add this plugin to WordPress for activation so it can be tested.
 
 $GLOBALS['wp_tests_options'] = array(
-	'active_plugins' => array( "WP_Slider_Captcha/wp-slider-captcha.php" ),
+	'active_plugins' => array( "redux-plugin-tests/redux-plugin-tests.php" ),
 );
 
 // If the wordpress-tests repo location has been customized (and specified

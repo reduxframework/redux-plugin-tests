@@ -5,7 +5,7 @@
  *
  * @package wp-slider-captcha
  */
-class WP_Test_WP_Slider_Captcha extends WP_UnitTestCase {
+class WP_Redux_Plugin_Tests extends WP_UnitTestCase {
 
 	/**
 	 * Run a simple test to ensure that the tests are running
